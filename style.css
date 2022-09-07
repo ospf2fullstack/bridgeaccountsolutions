@@ -21,9 +21,9 @@ body {
   box-sizing: border-box;
 }
 
-
+/* #130450 (color code)*/
 .card {
-  background: #130450;
+  background: #ffffff;
   width: var(--card-width);
   height: var(--card-height);
   padding: 3px;
